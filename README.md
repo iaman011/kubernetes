@@ -1,2 +1,2 @@
 # kubernetes
-k8s
+Make sure Docker Desktop is running and minikube start
